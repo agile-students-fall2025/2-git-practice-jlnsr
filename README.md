@@ -1,5 +1,5 @@
 # Git Practice
-Originally interested in studying architecture, now pursuing computer science in my undergraduate career, I am interested in understanding the impact of software development in architecture. Thus, this project briefly explores the connection between the two, seemingly, disparate fields through one particular case study.
+Originally interested in studying architecture, now pursuing computer science in my undergraduate career, I am interested in understanding the impact of software development in architecture. Thus, this project briefly explores the connection between the two, seemingly, disparate fields, through one particular case study.
 
 [The Wicked, the Tamed and the Transformative Nature of Artificial Intelligence](https://onlinelibrary.wiley.com/doi/10.1002/ad.3049)
 
